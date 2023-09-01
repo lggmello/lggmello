@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lggmello
+- 👋 Hi, I’m Luis: @lggmello
 - 👀 I’m interested in programming, computers, games, project management, and creation.
 - 🌱 I’m currently learning Python to start in business, but I graduated in Civil Engineering, post graduated in business administration, and Project Management (PMP certified).
 - 💞️ I’m looking to collaborate on creating solutions for business in the computing environment.
